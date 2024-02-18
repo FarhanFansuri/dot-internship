@@ -25,8 +25,8 @@ function FormComp() {
     <Form className='p-5 form-style'>
       <h1 className='text-center mb-5'>Login</h1>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-        <Form.Label>Email address</Form.Label>
-        <Form.Control type="email" placeholder="name@example.com" />
+        <Form.Label>Username</Form.Label>
+        <Form.Control type="email" placeholder="username" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
         <Form.Label>Password</Form.Label>
